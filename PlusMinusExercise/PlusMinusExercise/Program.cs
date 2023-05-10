@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using PlusMinusExercise;
+
+List<int> arr = new List<int> { -5, -2, 3, 0, 0, -7 };
+
+PlusMinus.FindFractions(arr);
