@@ -1,6 +1,7 @@
 ﻿namespace FrequencyCounter;
 
 // Given a list of integers, count and return the number of times each value appears as an array of integers.
+// The value being counted go from 0 to max number in the list.
 public static class FrequencyCount
 {
     public static List<int> GetFrequency(List<int> arr)
