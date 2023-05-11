@@ -40,17 +40,3 @@ Console.WriteLine("matrix2[1][1]: " + matrix2[1][1]);
 Console.WriteLine("matrix2[1][2]: " + matrix2[1][2]);
 Console.WriteLine("matrix2[2][1]: " + matrix2[2][1]);
 Console.WriteLine("matrix2[2][2]: " + matrix2[2][2]);
-
-//int n = matrix.Count;
-
-//for (int i = 0; i < n / 2; i++)
-//{
-//    for (int j = 0; j < n / 2; j++)
-//    {
-//        //Console.WriteLine(matrix[i][j]); 
-//        Console.WriteLine(matrix[i][n - 1 - j]); 
-//        //Console.WriteLine(matrix[n - 1 - i][j]); 
-//        //Console.WriteLine(matrix[n - 1 - i][n - 1 - j]); 
-
-//    }
-//}
